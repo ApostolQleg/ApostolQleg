@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ApostolQleg/ApostolQleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="280" src="https://i.ibb.co/YBxVzgzZ/1234567890.jpg" alt="My Profile Avatar">
 
-Here are some ideas to get you started:
+### 👨‍💻 About me:
+My name is Oleg, I live in Ukraine. I study software engineering at KPI (FIOT). Programming languages and tech I learn and use: `JavaScript`, `React`, `Node.js`, `C` and I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality. ***I have Fedora, btw*** 🫣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📞 Contacts
+I am open to communication, so you can write to me using any of these methods:<br><br>
+[`📧 Gmail`](mailto:apostololeg0@gmail.com)
+[`💬 Telegram`](https://t.me/ApostolQleg)
+[`🔗 LinkedIn`](https://linkedin.com/in/oleg-bondarenko-81a67239b)
+
+### 🔍 Projects
+Here are some of the things I'm currently working on:<br><br>
+[`🚀 QuizTime`](https://github.com/ApostolQleg/QuizTime) - A modern web application for quizzes built with React and MongoDB.<br>
+[`New projects are coming soon...`](https://github.com/ApostolQleg?tab=repositories)
+
+<br clear="left"/>
+
+## 📊 Stats
+<div align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=great-gatsby&layout=compact&hide_border=true" alt="my top programming languages">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" alt="my github stats">
+</div>
