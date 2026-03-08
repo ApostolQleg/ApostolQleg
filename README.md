@@ -3,7 +3,16 @@
 <img align="left" width="280" src="https://i.ibb.co/YBxVzgzZ/1234567890.jpg" alt="My Profile Avatar">
 
 ### 👨‍💻 About me:
-My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages and tech I learn and use: `JavaScript`, `React`, `Node.js`, `C` and I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality. ***I have Fedora, btw*** 🫣
+My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages I learn and use: `JavaScript`, `C`. I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality. ***I have Fedora, btw*** 🫣
+
+#### Languages and Technologies
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Fastify](https://img.shields.io/badge/fastify-%23404d59.svg?style=for-the-badge&logo=fastify&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 📞 Contacts
 #### I am open to communication, so you can write to me using any of these methods:
