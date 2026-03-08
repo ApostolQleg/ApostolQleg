@@ -20,6 +20,6 @@ Here are some of the things I'm currently working on:<br><br>
 
 ## 📊 Stats
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=great-gatsby&layout=compact&hide_border=true" alt="my top programming languages" width="280">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" alt="my github stats" width="280">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=great-gatsby&layout=compact&hide_border=true" alt="my top programming languages" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=great-gatsby&show_icons=true&hide_border=true&count_private=false" alt="my github stats" width="350">
 </div>
