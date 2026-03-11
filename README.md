@@ -32,7 +32,6 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleg-bondarenko-81a67239b)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/ApostolQleg)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:apostololeg0@gmail.com)
-
 <br clear="left"/>
 
 ## 🔍 Projects
