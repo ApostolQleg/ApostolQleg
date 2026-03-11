@@ -36,13 +36,8 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 
 ## 🔍 Projects
 ### Here are some of the things I'm currently working on:
-<a href="https://github.com/ApostolQleg/QuizTime">
-  <img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime">
-</a>
-<a href="https://github.com/ApostolQleg/QuizTime-backend">
-  <img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime">
-</a>
-
+<a href="https://github.com/ApostolQleg/QuizTime"><img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime"></a>
+<a href="https://github.com/ApostolQleg/QuizTime-backend"><img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime"></a>
 
 ## 📊 Stats
 ### A quick look at my coding habits and GitHub activity:
