@@ -42,6 +42,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 ## 📊 Stats
 ### A quick look at my coding habits and GitHub activity:
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true" alt="my top programming languages" width="350">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=github_dark&show_icons=true&hide_border=true&count_private=false" alt="my github stats" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="my github stats" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true" alt="my top programming languages" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true" alt="my top programming languages" width="700">
 </div>
