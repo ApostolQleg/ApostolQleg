@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-<img align="left" width="35%" src="https://i.ibb.co/YBxVzgzZ/1234567890.jpg" alt="My Profile Avatar">
+<img align="left" width="35%" src="https://github.com/user-attachments/assets/ebad2c94-cf12-47a9-b5c5-0bf780759037" alt="My Profile Avatar">
 
 ### 👨‍💻 About me:
 My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages I learn and use: `JavaScript`, `C`. I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality.
