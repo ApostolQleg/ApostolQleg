@@ -3,10 +3,9 @@
 <img align="left" width="35%" src="https://i.ibb.co/YBxVzgzZ/1234567890.jpg" alt="My Profile Avatar">
 
 ### 👨‍💻 About me:
-My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages I learn and use: `JavaScript`, `C`. I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality. ***I have Fedora on dualboot, btw*** 🫣
+My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages I learn and use: `JavaScript`, `C`. I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality.
 
 🎓 I maintain a dedicated [Study](https://github.com/ApostolQleg/Study) repository where I consolidate all my university labs, coursework, and personal projects. Everything there is completely open-source, so feel free to explore, reuse, or adapt the code for your own needs.
-
 If you find something helpful or interesting, I'd really appreciate a star! You can also check out some of my featured work and main projects below.
 
 #### Languages and Technologies
