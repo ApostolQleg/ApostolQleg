@@ -29,15 +29,22 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 
 ### 📞 Contacts
 #### I am open to communication, so you can write to me using any of these methods:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleg-bondarenko-81a67239b)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/ApostolQleg)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?logo=gmail&logoColor=white)](mailto:apostololeg0@gmail.com)
+
+<a href="https://github.com/ApostolQleg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="32" align="absmiddle" alt="Github"></a>
+<a href="https://linkedin.com/in/oleg-bondarenko-81a67239b"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
+<a href="https://t.me/ApostolQleg"><img src="https://github.com/user-attachments/assets/87075904-75e0-4d20-a64a-a5ed13d548b7" height="32" align="absmiddle" alt="Telegram"></a>
+<a href="https://www.instagram.com/apostolqleg"><img src="https://github.com/user-attachments/assets/4d61c193-88f5-4ee2-b6a8-ada7e9c691f5" height="32" align="absmiddle" alt="Instagram"></a>
+<a href="mailto:apostololeg0@gmail.com"><img src="https://github.com/user-attachments/assets/eb996e7a-935e-4496-a5a7-bc098f60ccd2" height="32" align="absmiddle" alt="Email"></a>
+<a href="https://www.youtube.com/@ApostolOleg"><img src="https://github.com/user-attachments/assets/1a4b5c08-4ce5-4343-b13e-801a91863148" height="32" align="absmiddle" alt="Youtube"></a>
+<a href="https://x.com/ApostolQleg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" height="32" align="absmiddle" alt="X"></a>
+<a href="https://www.reddit.com/user/ApostolQleg/"><img src="https://github.com/user-attachments/assets/0019cb06-4e9c-4334-b190-c2c35a0474cc" height="32" align="absmiddle" alt="Reddit"></a>
+
 <br clear="left"/>
 
 ## 🔍 Projects
 ### Here are some of the things I'm currently working on:
 <a href="https://github.com/ApostolQleg/QuizTime"><img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime"></a>
-<a href="https://github.com/ApostolQleg/QuizTime-backend"><img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime"></a>
+<a href="https://github.com/ApostolQleg/QuizTime-backend"><img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime-backend"></a>
 
 ## 📊 Stats
 ### A quick look at my coding habits and GitHub activity:
