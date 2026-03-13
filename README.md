@@ -2,10 +2,10 @@
 
 <img align="left" width="35%" src="https://github.com/user-attachments/assets/ebad2c94-cf12-47a9-b5c5-0bf780759037" alt="My Profile Avatar">
 
-### 👨‍💻 About me:
+### About me:
 My name is Oleg, I live in Ukraine. I study software engineering at KPI (FICE). Programming languages I learn and use: `JavaScript`, `C`. I'm planning to learn `Python` and `C++`. I love solving complex problems and turning ideas into reality.
 
-🎓 I maintain a dedicated [Study](https://github.com/ApostolQleg/Study) repository where I consolidate all my university labs, coursework, and personal projects. Everything there is completely open-source, so feel free to explore, reuse, or adapt the code for your own needs.
+I maintain a dedicated [Study](https://github.com/ApostolQleg/Study) repository where I consolidate all my university labs, coursework, and personal projects. Everything there is completely open-source, so feel free to explore, reuse, or adapt the code for your own needs.
 If you find something helpful or interesting, I'd really appreciate a star! You can also check out some of my featured work and main projects below.
 
 #### Languages and Technologies
@@ -27,9 +27,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 
-### 📞 Contacts
 #### I am open to communication, so you can write to me using any of these methods:
-
 <a href="https://github.com/ApostolQleg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="32" align="absmiddle" alt="Github"></a>
 <a href="https://linkedin.com/in/oleg-bondarenko-81a67239b"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
 <a href="https://t.me/ApostolQleg"><img src="https://github.com/user-attachments/assets/87075904-75e0-4d20-a64a-a5ed13d548b7" height="32" align="absmiddle" alt="Telegram"></a>
@@ -41,12 +39,12 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 
 <br clear="left"/>
 
-## 🔍 Projects
-### Here are some of the things I'm currently working on:
+## <a href="https://github.com/ApostolQleg?tab=repositories"><img src="https://github.com/user-attachments/assets/fa33ce4d-1ead-41bc-b755-25eecb6032cd" height="32" align="absmiddle"> Projects </a>
+### Here are some of the things I've worked on:
 <a href="https://github.com/ApostolQleg/QuizTime"><img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime"></a>
 <a href="https://github.com/ApostolQleg/QuizTime-backend"><img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime-backend"></a>
 
-## 📊 Stats
+## <a href="https://github.com/ApostolQleg"><img src="https://github.com/user-attachments/assets/d61c4cc0-8eea-4b57-87b4-c24def40eec4" height="32" align="absmiddle"> Statistics </a>
 ### A quick look at my coding habits and GitHub activity:
 <div align="center">
     <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="my github stats" width="350">
