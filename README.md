@@ -41,7 +41,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 
 ## <a href="https://github.com/ApostolQleg?tab=repositories"><img src="https://github.com/user-attachments/assets/fa33ce4d-1ead-41bc-b755-25eecb6032cd" height="32" align="absmiddle"> Projects </a>
 ### Here are some of the things I've worked on:
-<a href="https://github.com/ApostolQleg/QuizTime"><img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime"></a>
+<a href="https://github.com/ApostolQleg/QuizTime-frontend"><img src="https://github.com/user-attachments/assets/91c45428-997b-41a3-862a-63a269c5f81b" height="64" align="absmiddle" alt="QuizTime"></a>
 <a href="https://github.com/ApostolQleg/QuizTime-backend"><img src="https://github.com/user-attachments/assets/fc53a8c3-c7eb-4672-baac-fa03b9cc433d" height="64" align="absmiddle" alt="QuizTime-backend"></a>
 
 ## <a href="https://github.com/ApostolQleg"><img src="https://github.com/user-attachments/assets/d61c4cc0-8eea-4b57-87b4-c24def40eec4" height="32" align="absmiddle"> Statistics </a>
