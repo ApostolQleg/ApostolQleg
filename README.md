@@ -29,7 +29,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/)
 [![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/docs/)
 
-#### I am open to communication, so you can write to me using any of these methods:
+#### I am open to communication, so you can message me using any of these:
 <a href="https://github.com/ApostolQleg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="32" align="absmiddle" alt="Github"></a>
 <a href="https://linkedin.com/in/oleg-bondarenko-81a67239b"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
 <a href="https://t.me/ApostolQleg"><img src="https://github.com/user-attachments/assets/87075904-75e0-4d20-a64a-a5ed13d548b7" height="32" align="absmiddle" alt="Telegram"></a>
