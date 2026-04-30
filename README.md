@@ -11,6 +11,8 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 #### Languages and Technologies
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![GCC](https://img.shields.io/badge/gcc-%23A42E2B.svg?style=for-the-badge&logo=gnu&logoColor=white)](https://gcc.gnu.org/onlinedocs/)
+[![Clang](https://img.shields.io/badge/Clang-%232671E5.svg?style=for-the-badge&logo=c&logoColor=white)](https://clang.llvm.org/)
+[![LLVM](https://img.shields.io/badge/LLVM-%23041F31.svg?style=for-the-badge&logo=llvm&logoColor=white)](https://llvm.org/)
 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
