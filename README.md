@@ -31,7 +31,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 
 #### I am open to communication, so you can message me using any of these:
 <a href="https://github.com/ApostolQleg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" height="32" align="absmiddle" alt="Github"></a>
-<a href="https://linkedin.com/in/oleg-bondarenko-81a67239b"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
+<a href="https://linkedin.com/in/apostololeg"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" height="32" align="absmiddle" alt="LinkedIn"></a>
 <a href="https://t.me/ApostolQleg"><img src="https://github.com/user-attachments/assets/87075904-75e0-4d20-a64a-a5ed13d548b7" height="32" align="absmiddle" alt="Telegram"></a>
 <a href="https://www.instagram.com/apostolqleg"><img src="https://github.com/user-attachments/assets/4d61c193-88f5-4ee2-b6a8-ada7e9c691f5" height="32" align="absmiddle" alt="Instagram"></a>
 <a href="mailto:apostololeg0@gmail.com"><img src="https://github.com/user-attachments/assets/eb996e7a-935e-4496-a5a7-bc098f60ccd2" height="32" align="absmiddle" alt="Email"></a>
