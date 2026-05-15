@@ -49,7 +49,7 @@ If you find something helpful or interesting, I'd really appreciate a star! You 
 ## <a href="https://github.com/ApostolQleg"><img src="https://github.com/user-attachments/assets/d61c4cc0-8eea-4b57-87b4-c24def40eec4" height="32" align="absmiddle"> Statistics </a>
 ### A quick look at my coding habits and GitHub activity:
 <div align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=github_dark&show_icons=true&hide_border=true&count_private=true" alt="my github stats" width="350">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true" alt="my top programming languages" width="350">
-    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true" alt="my top programming languages" width="700">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=ApostolQleg&theme=github_dark&show_icons=true&hide_border=true&count_private=true&v=1" alt="my github stats" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true&v=1" alt="my top programming languages" width="350">
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=ApostolQleg&theme=github_dark&layout=compact&hide_border=true&v=1" alt="my github streak" width="700">
 </div>
